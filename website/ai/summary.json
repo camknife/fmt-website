@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "国际筋膜整复学院",
+  "alternateName": "International Institute of Fascial Manipulation",
+  "url": "https://fmt-fascia.cn",
+  "description": "专注筋膜整复技术的国际教育与认证机构，通过系统化、标准化、国际化的培训体系，帮助康复从业者实现从技术入门到职业发展的完整升级。",
+  "founder": {
+    "@type": "Person",
+    "name": "罗军"
+  },
+  "summary": "FMT® 筋膜整复技术中文培训体系，提供线下模块课程、筋膜刀实操培训与国际认证培训。初级（¥3,500）/ 中级（¥4,500）/ 讲师班（¥6,000起）三级课程体系。"
+}

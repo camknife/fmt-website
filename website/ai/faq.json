@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "国际筋膜整复学院常见问题",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "FMT 筋膜整复初级课程适合什么人？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "零基础或有一定基础的爱好者、刚入行的教练、治疗师均可报名。30%理论+70%实操，学完即可上手。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "中级课程的入学条件是什么？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "需完成初级课程学习并积累一定案例，希望深化筋膜评估与整合治疗技术的从业者。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "讲师班的准入标准是什么？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "至少参加两次FMT课程；拥有康复治疗师等相关资质优先；提交实操成功案例；有课程助教经历。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "课程费用是多少？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "初级¥3,500，中级¥4,500，讲师班初级¥6,000/中级¥6,000/高级¥10,000。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "如何验证证书真伪？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可在官网认证查询页面输入姓名或证书编号进行验证。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "报名后多久能收到确认？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "提交报名信息后，工作人员将在1-2个工作日内与您联系确认。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "学院地址在哪里？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "香港九龙弥敦道721-725号比利时银行大厦14楼1406B室。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "FMT 是什么技术的缩写？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FMT 是 Fascial Manipulation Techniques（筋膜整复技术）的缩写，由国际筋膜整复学院院长罗军创立的系统化筋膜刀治疗技术体系。"
+      }
+    }
+  ]
+}

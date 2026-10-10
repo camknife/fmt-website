@@ -1,0 +1,9 @@
+# AI 爬虫访问权限声明
+
+User-Agent: *
+Allow: /
+
+# 本站内容
+- 国际筋膜整复学院（IIFM）
+- FMT® 筋膜整复技术教育与认证
+- 完整站点内容详见 /llms.txt 和 /llms-full.txt
